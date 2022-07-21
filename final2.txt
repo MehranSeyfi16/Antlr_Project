@@ -1,0 +1,93 @@
+//LIBRARIES
+
+/* 
+NAME: mehran seyfi
+STUDENT NUMBER: 9922762377
+PROJECT: antlr - language design
+*/
+func1 = from math require floor ;
+lib1 = require math;
+func2 = from math => math ;
+func1 , func2 = from math require floor , from math require rand ;
+
+//CLASS_IMPLEMENTATION 
+class Dot(child) implements test
+begin 
+        /*DEFINE_CONTENTS*/
+        const string myConst = "mehranSeyfi" ;
+        int myVar = 25 , myVar2 = 45 ;
+        int myArray[] = new int [4] ;
+        float array[] = [ 0.5 , 4.7 , 2.5 , 25.78 ] ;
+        private bool flag = true ;
+        private bool flag ;
+        private int px , tx ;
+
+        //CONSTRUCTOR
+        Dot( int px , int ex )
+        begin 
+            xd += 25 ;
+            xp -= 45 ;
+        end
+        
+        /*OBJECT_INSTANTIATION*/
+        public Dot dot = Dot( 1 , 5 ) ;
+        const Dot origin = Dot() ;
+        public Random rand ;
+        Point point = null ;
+        
+        /*FUNCTION*/
+        int move( int step , bool flag , string test )
+        begin 
+        for ( int mehran = 0 ; mehran < 0 and seyfi > 15 ; myVar ++ )
+        begin 
+        //INNER_LOOPS
+        //INNER_FOR_LOOP_TYPE2
+            for px in range begin 
+                //IF
+                if ( x > 45 )
+                begin 
+                    mehran += seyfi ;
+                    print(jkds) ;
+                end
+                /*TRYING_TO_HANDLE_EXCEPTIONS*/
+                try 
+                begin 
+                    res = num / num2 ;
+                end
+                catch ( devided , value )
+                begin 
+                    res = 0 ;
+                    px += pt ;
+                end
+
+                //WHILE_LOOP
+                while ( xp > tx )
+                begin 
+                    //SWITCH_CASE_IN_LOOPS
+                    switch name
+                    begin 
+                        case 1 :
+                        xy /= 45 + 75 * 42;
+                        xr = (temp1) ^ temp2 * 55 ;
+                        
+                        break ;
+                    default :
+                        xr += fd - test + 45 - 12.22 & fd ;
+                    end
+                tx += px ;
+                end
+        sum += mehran ;
+        end
+            px *= step ;
+            return px ;
+        end
+        
+        int testFunc( string test ) 
+        begin
+            print(45*23-45)
+            return res;
+        end
+        
+        
+        
+    end

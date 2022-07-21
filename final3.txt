@@ -1,0 +1,37 @@
+f1,f2,f3,f4 = from math require floor , from math require abs, from math require temp,from math require test;
+
+class Student(Human) implements Test, Test2, Test3 
+begin
+    public string name = "mehranSeyfi";
+    public int counter = 0;
+    int age;
+    private int ID = 45.25;
+
+    public static int getAge() 
+    begin
+        return age;
+    end
+    
+    Test (string name, bool flag = false ) begin
+        this.name = name;
+        this.age = age;
+        this.ID = counter;
+    end
+end
+
+class Main begin
+    public static float numeric (string tmp) 
+    begin
+        Point point = null;
+
+        int x3 = 12;
+        int temp1 = 45 ;
+        y3 = 13 * 12 - 45 * 78 & 45 ^ temp1;
+        bool flag = true ;
+        double z3 = 12.25;
+        z3 = y3 + x3 + 12;
+        string userName = "Ahmd132";
+        return test ;
+
+    end
+end
